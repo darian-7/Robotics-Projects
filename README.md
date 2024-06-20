@@ -9,7 +9,7 @@ Robot localization using Particle Filters:
 ![MCL](./docs/MCL.gif)
 
 An evaluation of SLAM system performance in different environments:
-![slam](./docs/slam.gif)
+![slam](./docs/slam.png)
 
 
 ## UIUC Academic Integrity
